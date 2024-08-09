@@ -1,0 +1,78 @@
+.service {
+    margin-top: 100px;
+}
+
+.service .title-service {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 73.8px;
+    text-align: left;
+    margin-bottom: 40px;
+
+}
+
+.service .line-service {
+    height: 1px;
+    width: 100%;
+    background-color: #ADABAB
+}
+
+.service .wrapper-service{
+    margin-top: 40px;
+    gap: 80px;
+}
+
+.service .card-service {
+    gap: 60px;
+    
+}
+
+.service .card-service img {
+    width: 500px;
+}
+
+.service .card-service .card-service-text h5 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 49.2px;
+    text-align: left;
+    color: #101010;
+    margin-bottom: 16px;
+
+}
+
+.service .card-service .card-service-text p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #96A0B5;
+    margin-bottom: 30px;
+
+}
+
+.service .card-service .card-service-text a {
+    width: 168px;
+    height: 51px;
+    border: 1px solid #0C0A0A;
+    border-radius: 50px;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    transition: 0.3s;
+
+
+}
+
+.service .card-service .card-service-text a img {
+    width: 24px;
+    height: 24px;
+}
+
+.service .card-service .card-service-text a:hover {
+    background-color: #0C0A0A;
+    color: #fff;
+}

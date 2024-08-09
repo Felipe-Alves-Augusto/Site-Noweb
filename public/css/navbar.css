@@ -1,0 +1,36 @@
+.nav-menu ul li {
+    padding: 0 32px;
+}
+
+.nav-menu ul li a {
+    font-size: 16px;
+    line-height: 21.6px;
+    font-weight: 500;
+    color: #96A0B5;
+    transition: 0.3s;
+}
+
+.nav-menu ul li a:first{
+    color: #0C0A0A;
+}
+
+.nav-menu ul li a:hover {
+    color: #0C0A0A;
+}
+
+.nav-menu .button-menu {
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 500;
+    color: #0C0A0A;
+    border: 1px solid #0C0A0A;
+    padding: 13px 25px 13px 25px;
+    display: block;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.nav-menu .button-menu:hover {
+    background-color: #0C0A0A;
+    color: #fff;
+}

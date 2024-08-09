@@ -1,0 +1,111 @@
+
+
+.conheca .description-session {
+    text-align: center;
+}
+
+.conheca .description-session p {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #96A0B5;
+
+}
+
+
+.conheca .description-session h2 {
+    font-size: 60px;
+    color: #101010;
+    font-weight: 500;
+    line-height: 73px;
+    margin-top: 20px;
+}
+
+.conheca .wrapper-conheca {
+    gap: 16px;
+    margin-top: 55px;
+}
+
+.conheca .img-conheca {
+    width: 50%;
+}
+
+.conheca .cards-conheca {
+    width: 50%;
+}
+
+.conheca .img-conheca figcaption {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) -84.5%, #0C0A0A 117.36%);
+
+}
+
+.conheca .wrapper-conheca figure img {
+    height: 96.6%;
+}
+
+.conheca .img-conheca figcaption h3 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.52px;
+    text-align: left;
+
+
+}
+
+.conheca .img-conheca figcaption p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #D9D9D9;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 13px;
+
+}
+
+.conheca .img-conheca figcaption {
+    height: 50%;
+    bottom: 17px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.conheca .cards-conheca .card {
+    margin-bottom: 16px;
+}
+
+.conheca .cards-conheca .card img {
+    width: 40%;
+    height: 227px;
+    object-fit: cover;
+}
+
+.conheca .cards-conheca .card-1 .card-box-text {
+    background-color: #01737F;
+   
+}  
+
+.conheca .cards-conheca .card-2 .card-box-text {
+    background-color: #031356;
+   
+}  
+
+.conheca .cards-conheca .card-box-text h5 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.52px;
+    text-align: left;
+    color: #fff;
+    margin-top: 50px;
+
+}
+
+.conheca .cards-conheca .card-box-text p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #D9D9D9;
+
+}

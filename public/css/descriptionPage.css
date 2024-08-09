@@ -1,0 +1,53 @@
+.description-page {
+    margin-top: 79px;
+}
+
+.description-page .box-title-description {
+    width: 65%;
+} 
+
+.description-page .box-description {
+    width: 35%;
+}
+
+.description-page .box-title-description h1 {
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 98.4px;
+    text-align: left;
+}
+
+.description-page .box-description > p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #96A0B5;
+    margin-bottom: 53px;
+}
+
+
+.description-page .box-description .btn-service {
+    border: 1px solid #0C0A0A;
+    border-radius: 50px;
+    padding: 13px 25px 13px 25px;
+    background-color: #0C0A0A;
+    color: #fff;
+    width: 321px;
+    gap: 21px;
+    transition: 0.3s;
+
+}
+
+.description-page .box-description .btn-service:hover {
+    background-color: transparent;
+    color: #0C0A0A;
+
+}
+
+
+
+.description-page .box-description .btn-service p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}

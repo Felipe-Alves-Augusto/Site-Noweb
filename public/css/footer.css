@@ -1,0 +1,133 @@
+.footer {
+    background-color: #0C0A0A;
+    padding: 100px 0 30px 0;
+    margin-top: 100px;
+}
+
+.footer .title-footer  {
+    max-width: 713px;
+}
+
+.footer .title-footer h3 {
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 98.4px;
+    text-align: left;
+    color: #fff;
+
+}
+
+.footer .contact-footer p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #96A0B5;
+    max-width: 513px;
+
+}
+
+.footer .contact-footer a {
+    width: 249px;
+    height: 51px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    color: #fff;
+    transition: 0.3s;
+    margin-top: 55px;
+}
+
+.footer .contact-footer a:hover {
+    background-color: #000;
+    border: 1px solid #000;
+}
+
+.footer .contact-footer a svg {
+    width: 24px;
+    height: 24px;
+}
+
+.footer .description-footer {
+    margin-top: 35px;
+
+}
+
+.footer .description-footer p {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #96A0B5;
+    margin-top: 24px;
+    max-width: 342px;
+
+}
+
+.footer .title-links {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32.4px;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 21px;
+
+}
+
+.footer .location p {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #96A0B5;
+
+}
+
+.footer ul li a {
+
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32.4px;
+    text-align: left;
+    color: #96A0B5;
+    margin-bottom: 12px;
+    display: block
+
+}
+
+.footer ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer .line-footer {
+    height: 1px;
+    background-color: #96A0B540;
+    width: 100%;
+    margin-bottom: 24px;
+    margin-top: 48px;
+}
+
+.footer .rights-text {
+    gap: 100px;
+}
+
+.footer .rights-text p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: #96A0B5;
+
+}
+
+.footer .social-media ul li {
+    display: inline-block;
+    margin-right: 18px;
+}

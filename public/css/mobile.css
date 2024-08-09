@@ -1,0 +1,194 @@
+@media screen and (max-width: 768px) {
+
+    .description-page, .conheca, .service {
+        margin-top: 40px;
+    }
+
+    .carousel .buttons-slide {
+        display: none;
+    }
+
+    .max-w-screen-xl {
+        padding: 0 4%;
+    }
+    .nav-menu .button-menu {
+        display: none;
+    }
+
+    .swiper-novidades  {
+        margin-top: 101px;
+    }
+
+    .description-page .wrapper-description,
+    .carousel .wrapper-carousel,
+    .conheca .wrapper-conheca,
+    .service .card-service,
+    .footer .header-footer,
+    .footer .links-footer,
+    .conheca .cards-conheca .card,
+    .footer .rights-text,
+    .footer .wrapper-rights  {
+        flex-direction: column;
+    } 
+
+    .description-page .box-title-description,
+    .description-page .box-description,
+    .carousel .wrapper-carousel .swiper,
+    .carousel .wrapper-carousel .img-static,
+    .conheca .img-conheca figcaption,
+    .conheca .img-conheca,
+    .conheca .cards-conheca {
+        width: 100%;
+    }
+
+    .description-page .box-title-description h1 {
+        line-height: 1;
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .description-page .box-description > p {
+        text-align: center;
+    }
+
+    .conheca .description-session h2 {
+        font-size: 40px;
+        line-height: 1;
+    }
+
+    .conheca .wrapper-conheca figure img {
+        height: auto;
+        width: 100%;
+    }
+
+    .footer .title-footer h3 {
+        font-size: 35px;
+        line-height: 1;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .footer .contact-footer p {
+        text-align: center;
+    }
+
+    .description-page .box-description .btn-service {
+        margin: 0px auto;
+    }
+
+    .conheca .description-session p {
+        font-size: 20px;
+    }
+
+    .conheca .img-conheca figcaption {
+        bottom: 0;
+    }
+
+    .carousel .wrapper-carousel .swiper-text {
+        padding-left: 13px;
+    }
+
+    .carousel .wrapper-carousel .img-static p {
+        margin: 0px 13px;
+    }
+
+    .carousel .wrapper-carousel .img-static p {
+        bottom: 19px;
+    }
+
+    .conheca .cards-conheca .card img {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .novidades {
+        padding: 40px 0;
+    }
+
+    .novidades .description-novidades h2 {
+        font-size: 40px;
+        text-align: center;
+        
+
+    }
+
+    .novidades .description-novidades p {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .service .title-service {
+        font-size: 40px;
+        line-height: 1; 
+        text-align: center;  
+    }
+
+    .service .card-service .card-service-text h5 {
+        font-size: 30px;
+    }
+
+    .service .card-service {
+        gap: 30px;
+    }
+
+    .footer {
+        margin-top: 40px;
+        padding: 40px 0;
+    }
+
+    .footer .contact-footer a {
+        margin: 30px auto 10px auto;
+    }
+
+    .footer .links-footer {
+        gap: 30px;
+    }
+
+    .footer .description-footer img {
+        margin: 0px auto;
+    }
+
+    .footer .description-footer p, .footer .location p {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .footer .title-links, .footer .rights-text p {
+        text-align: center;
+    }
+
+    .footer ul li a {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .footer .rights-text {
+        gap: 20px;
+    }
+
+    .footer .social-media {
+        margin-top: 30px;
+    }
+
+    .novidades .buttons-slide {
+        bottom: 14%;
+        right: 137px;
+    }
+
+    .carousel .swiper-pagination {
+        display: block;
+    }
+
+    .footer .rights-text img {
+        width: 135px;
+    }
+
+    .conheca .img-conheca figcaption p {
+        margin-top: 0;
+    }
+
+
+    
+}
